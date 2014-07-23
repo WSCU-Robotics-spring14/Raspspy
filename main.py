@@ -2,7 +2,6 @@
 
 import StringIO
 import subprocess
-import time
 import datetime
 import math
 import sys
