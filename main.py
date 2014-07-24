@@ -14,7 +14,7 @@ from PIL import ImageChops
 
 # DESCRIPTION
 # Takes continuous low-res pictures and compares them to detect
-# motion. When movment is detected, a full-res picture is taken
+# motion. When movement is detected, a full-res picture is taken
 # and stored with a time stamp in the capture folder.
 
 # USAGE
